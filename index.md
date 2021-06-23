@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown(http://39.96.65.222:8888/705f7990/
+```markdown
 Syntax highlighted code block
 
 # Header 1
